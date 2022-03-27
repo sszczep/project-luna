@@ -1,0 +1,10 @@
+matrix.c:27:6:MATRIX_Init	24	static
+matrix.c:76:6:MATRIX_SendReport	0	static
+matrix.c:118:10:MATRIX_GetKeycode	16	static
+matrix.c:127:9:MATRIX_IsModifier	0	static
+matrix.c:131:10:MATRIX_ReportFindEmpty	0	static
+matrix.c:139:10:MATRIX_ReportFindSet	8	static
+matrix.c:147:10:MATRIX_MapModifier	0	static
+matrix.c:80:6:MATRIX_OnPress	8	static
+matrix.c:103:6:MATRIX_OnRelease	8	static
+matrix.c:40:6:MATRIX_Scan	56	static

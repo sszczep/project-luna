@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Keyboard.kicad_sym")(options "")(descr ""))
+)

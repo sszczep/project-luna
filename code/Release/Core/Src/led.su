@@ -1,0 +1,6 @@
+led.c:17:6:LED_ToBuffer	32	static
+led.c:29:6:LED_Init	24	static
+led.c:42:6:LED_DMA_Step	16	static
+led.c:70:6:LED_Update	64	static
+led.c:116:6:LED_NextBrightnessLevel	0	static
+led.c:122:6:LED_PrevBrightnessLevel	0	static
